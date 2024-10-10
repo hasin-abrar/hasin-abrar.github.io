@@ -1,4 +1,4 @@
-# hasinabrar.github.io
+# hasin-abrar.github.io
 
 GitHub personal website. Work in progress.
 
